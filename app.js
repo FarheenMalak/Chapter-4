@@ -1,10 +1,10 @@
         // Chapter # 4 LEGAL AND ILLEGAL
 
         // Declare 3 variables in one statement
-        var a = 1, b = 2, c = 3;
+        // var a = 1, b = 2, c = 3;
 
         // Declare 5 legal & 5 illegal variable names
-        var legal1 = "value", $legal2 = "value", _legal3 = "value", legalName4 = "value", legalName5 = "value";
+        // var legal1 = "value", $legal2 = "value", _legal3 = "value", legalName4 = "value", legalName5 = "value";
 
         // The following are illegal variable names:
         // var 1illegal = "value";  // Starts with a number
